@@ -1,2 +1,2 @@
-# Moodify-let-your-mood-choose-the-music
-Moodify is a music app that understands how you feel. Instead of searching for playlists, it listens to your mood and plays songs that match. Whether you’re happy, sad, focused, or just relaxing, Moodify gives you the right soundtrack for the moment, making music feel personal and effortless.
+# Moodify-Let-Your-Mood-Choose-the-Music-
+Moodify is an intelligent music recommendation system that detects your mood through text, voice, and audio tone, and suggests personalized music playlists accordingly. Built using Flask, JavaScript, Librosa, Whisper, and the Spotify API, it blends sentiment analysis with audio feature extraction (like pitch and tempo) to enhance user experience.
